@@ -616,9 +616,9 @@
             transition: var(--transition-2);
         }
         
-        .instruction-card:hover .card-banner {
+       /* .instruction-card:hover .card-banner {
             transform: rotateY(1turn);
-        }
+        }*/
         
         .instruction-card .img {
             margin-inline: auto;
